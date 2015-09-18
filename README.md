@@ -15,8 +15,9 @@ In particular, we hope to:
 
 ## Getting Started
 
-### Tech requirements
-JavaScript is already running in your browser, so there's nothing to install there. However:
+Here's what you need to know to get started with our project.
+
+### git (and Github)
 
 You'll need a Github account and some knowledge of git. If you're not comfortable using git, that's perfectly fine! Start by looking at the following resources:
 
@@ -34,7 +35,7 @@ We'll be using the Feature Branch Workflow for these projects. This is a great b
 
 - **Have more git questions?** If you've gone through the material above and want to walk through git concepts with a real person, send us a note <hello@codenewbie.org> and we'd be happy to setup some time to do it together.
 
-### Skill requirements
+### JavaScript
 You're welcome to start contributing at any level, but it's helpful to have some knowledge of JavaScript. To get you started go through the following tutorials first.
 
 - [JavaScript for Cats](http://jsforcats.com/), a lighthearted introduction to JS that the author estimates should take about 2 hours.
@@ -43,6 +44,9 @@ You're welcome to start contributing at any level, but it's helpful to have some
 Once you're done, come back and get your code on!
 
 There's a big gap between the knowledge you gain when you go through the tutorials, and the skills you need to be job ready. We hope to help fill that gap by working on collaborative projects like this. So if you're tired of doing tutorials and you're looking for some real-world experience, this is for you.
+
+### React.js
+NEED CORE CURRICULUM FOR REACT
 
 ### How to contribute
 We use pull requests so you can get your code reviewed by others before merging it into the project. Code reviews are a great way to learn and collaborate. Here's how the process works:

@@ -35,20 +35,22 @@ var Meetup = (function() {
             return callback(response);
           }
         }, "jsonp");
-      };
-  
-  // Module object interface
-  return {
-    
-    // Sets API Key for requests. Required for API successful API calls
-    setKey: function(key) {
-      apiKey = key;
-    },
+      },
 
-    // Searches for recent and upcoming public events hosted by Meetup groups.
-    // Visit http://www.meetup.com/meetup_api/docs/2/open_events/ for more information, and for list of request parameters
-    getOpenEvents: function(params, callback) {
-      return getResponse("/2/open_events", params, callback);
-    }
+      // Sets API Key for requests. Required for API successful API calls
+      setKey = function(key) {
+        apiKey = key;
+      },
+
+      // Searches for recent and upcoming public events hosted by Meetup groups.
+      // Visit http://www.meetup.com/meetup_api/docs/2/open_events/ for more information, and for list of request parameters
+      getOpenEvents = function(params, callback) {
+        return getResponse("/2/open_events", params, callback);
+      }
+  
+  // Revealing Module object interface
+  return {
+    setKey: setKey,
+    getOpenEvents: getOpenEvents
   }
 })();

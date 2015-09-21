@@ -14,7 +14,7 @@ var Meetup = (function() {
       // Accepts object of parameters and returns a query string
       getParams = function(params) {
         return Object.keys(params).map(function(key) {
-          return "&" + key + "=" + params[key];
+          return (index > 0 ? "&" : "") + key + "=" + params[key];
         }).join("");
       },
 

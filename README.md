@@ -46,12 +46,18 @@ Once you're done, come back and get your code on!
 There's a big gap between the knowledge you gain when you go through the tutorials, and the skills you need to be job ready. We hope to help fill that gap by working on collaborative projects like this. So if you're tired of doing tutorials and you're looking for some real-world experience, this is for you.
 
 ### React.js
-NEED CORE CURRICULUM FOR REACT
+Facebook, the creators of React, have [an introductory page](https://facebook.github.io/react/docs/getting-started.html) for it. Hear about it from the horse's mouth!
+
+[Build With React](http://buildwithreact.com/) has a tutorial series.
+
+[Egghead.io](https://egghead.io/) has videos about React but it looks like there is a paid tier, so this is not necessarily free.
+
+Here's a [solid tutorial](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/) from James K. Nelson.
 
 ### How to contribute
 We use pull requests so you can get your code reviewed by others before merging it into the project. Code reviews are a great way to learn and collaborate. Here's how the process works:
 
-1. Join our [Slack community][1] and tell your host (dsberger on Slack, Twitter and Github) that you want to join the project repo.
+1. Join our [Slack community][1] and tell your host (dsberger on Slack and Github) that you want to join the project repo.
 2. The host will invite you to join as a collaborator. You **MUST** be a collaborator to join the project and pick up features.
 3. Accept invite from Github and Trello to join as a collaborator.
 4. Look at [our Trello board](https://trello.com/b/Y00YIqJm/newbie-mapper-js-enabled) to find an issue in "Up Next" that doesn't have anyone working on it.

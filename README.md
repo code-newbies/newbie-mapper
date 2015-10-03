@@ -4,7 +4,7 @@ This is the project for the CodeNewbie JavaScript Enabled group. You can join th
 
 ### About this project
 
-We are building a hangman game to help us develop our JavaScript skills. We meet weekly [here](https://codenewbie.typeform.com/to/uwsWlZ) in the "js-enabled" channel on Thursday at 9PM EST, so mark your calendars and stop by! There, we'll review the project, look at code together, and share what we learned.
+We are building a **Newbie Mapper** to help us develop our JavaScript skills. We meet weekly [here](https://codenewbie.typeform.com/to/uwsWlZ) in the "js-enabled" channel on Thursday at 9PM EST, so mark your calendars and stop by! There, we'll review the project, look at code together, and share what we learned.
 
 In particular, we hope to:
 
